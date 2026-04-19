@@ -21,14 +21,14 @@ sbs5/
 │   └── Clusters/               # Inferred mutation clusters
 └── notebooks/
     ├── fig1.ipynb              # Figure 1 (SBS5 across cell types)
-    ├── simulations.ipynb       # Figure 2B–C and SI simulations
     ├── fig3.ipynb              # Figure 3 (SBS5 vs. damage-specific signatures)
     ├── fig4.ipynb              # Figure 4 and 5 (clusters , repair dependence)
     ├── clusters_inference.ipynb            # Inference of mutation clusters
     ├── features2windows.ipynb              # Genomic features along the genome
     ├── signet_attribution_windows.ipynb    # SigNet signature attribution 
     ├── signet_attribution_repair.ipynb     # Attribution in repair rate quantiles
-    ├── sigprofiler_attribution.ipynb       # SigProfiler signature attribution 
+    ├── sigprofiler_attribution.ipynb       # SigProfiler signature attribution
+    ├── simulations.ipynb                   # SI simulations to test model solution
     ├── simulations.py                      # Stochastic simulation code
     └── tools.py                            # Shared utilities
 ```
