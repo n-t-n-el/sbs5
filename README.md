@@ -22,7 +22,8 @@ sbs5/
 └── notebooks/
     ├── fig1.ipynb              # Figure 1 (SBS5 across cell types)
     ├── fig3.ipynb              # Figure 3 (SBS5 vs. damage-specific signatures)
-    ├── fig4.ipynb              # Figure 4 and 5 (clusters , repair dependence)
+    ├── fig4.ipynb              # Figure 4 (co-localization with sites of DNA damage)
+    ├── fig5.ipynb              # Figure 5 (repair dependence)
     ├── clusters_inference.ipynb            # Inference of mutation clusters
     ├── features2windows.ipynb              # Genomic features along the genome
     ├── signet_attribution_windows.ipynb    # SigNet signature attribution 
